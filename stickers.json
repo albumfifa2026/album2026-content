@@ -161,6 +161,22 @@
             { "id": "GER-9",  "number": 83, "type": "player" },
             { "id": "GER-10", "number": 84, "type": "player" }
           ]
+        },
+        {
+          "id": "CAN", "name": "Canada",
+          "branding": { "primaryColor": "#000000", "secondaryColor": "#DD0000", "accentColor": "#FFCE00", "flagEmoji": "🇨🇦", "badgeLabel": "CANADA" },
+          "stickers": [
+            { "id": "CAN-1",  "number": 85, "type": "badge",  "suggestedValue": 3 },
+            { "id": "CAN-2",  "number": 86, "type": "player" },
+            { "id": "CAN-3",  "number": 87, "type": "player" },
+            { "id": "CAN-4",  "number": 88, "type": "player" },
+            { "id": "CAN-5",  "number": 89, "type": "player" },
+            { "id": "CAN-6",  "number": 90, "type": "player" },
+            { "id": "CAN-7",  "number": 91, "type": "player" },
+            { "id": "CAN-8",  "number": 92, "type": "player" },
+            { "id": "CAN-9",  "number": 93, "type": "player" },
+            { "id": "CAN-10", "number": 94, "type": "player" }
+          ]
         }
       ]
     }
