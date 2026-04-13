@@ -178,6 +178,22 @@
             { "id": "CAN-9",  "number": 93, "type": "player" },
             { "id": "CAN-10", "number": 94, "type": "player" }
           ]
+        },
+        {
+          "id": "POR", "name": "Portugal",
+          "branding": { "primaryColor": "#000000", "secondaryColor": "#DD0000", "accentColor": "#FFCE00", "flagEmoji": "🇵🇹", "badgeLabel": "PORTUGAL" },
+          "stickers": [
+            { "id": "POR-1",  "number": 95, "type": "badge",  "suggestedValue": 3 },
+            { "id": "POR-2",  "number": 96, "type": "player" },
+            { "id": "POR-3",  "number": 97, "type": "player" },
+            { "id": "POR-4",  "number": 98, "type": "player" },
+            { "id": "POR-5",  "number": 99, "type": "player" },
+            { "id": "POR-6",  "number": 100, "name": "Cristiano Ronaldo", "type": "player" },
+            { "id": "POR-7",  "number": 101, "type": "player" },
+            { "id": "POR-8",  "number": 102, "type": "player" },
+            { "id": "POR-9",  "number": 103, "type": "player" },
+            { "id": "POR-10", "number": 104, "type": "player" }
+          ]
         }
       ]
     }
