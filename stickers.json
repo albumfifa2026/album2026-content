@@ -1,0 +1,168 @@
+{
+  "version": "1.0.0",
+  "album": {
+    "name": "FIFA World Cup 2026",
+    "edition": "official",
+    "totalStickers": 640
+  },
+  "groups": [
+    {
+      "id": "especiales",
+      "name": "Láminas Especiales",
+      "suggestedValue": 8,
+      "style": {
+        "borderColor": "#C9973A",
+        "backgroundColor": "#0a0a1a",
+        "badgeLabel": "★ Especial",
+        "badgeColor": "#C9973A",
+        "foil": true
+      },
+      "stickers": [
+        { "id": "ESP-1", "number": 1, "name": "Portada FIFA 2026", "type": "special" },
+        { "id": "ESP-2", "number": 2, "name": "Trofeo Copa del Mundo", "type": "special" },
+        { "id": "ESP-3", "number": 3, "type": "special" },
+        { "id": "ESP-4", "number": 4, "type": "special" },
+        { "id": "ESP-5", "number": 5, "type": "special" },
+        { "id": "ESP-6", "number": 6, "type": "special" },
+        { "id": "ESP-7", "number": 7, "type": "special" },
+        { "id": "ESP-8", "number": 8, "type": "special" }
+      ]
+    },
+    {
+      "id": "estadios",
+      "name": "Estadios",
+      "suggestedValue": 3,
+      "style": {
+        "borderColor": "#8FA3B4",
+        "backgroundColor": "#0d2137",
+        "badgeLabel": "Estadio",
+        "badgeColor": "#8FA3B4"
+      },
+      "stickers": [
+        { "id": "EST-1",  "number": 9,  "name": "MetLife Stadium",        "type": "stadium" },
+        { "id": "EST-2",  "number": 10, "name": "AT&T Stadium",            "type": "stadium" },
+        { "id": "EST-3",  "number": 11, "name": "SoFi Stadium",            "type": "stadium" },
+        { "id": "EST-4",  "number": 12, "name": "Levi's Stadium",          "type": "stadium" },
+        { "id": "EST-5",  "number": 13, "name": "Arrowhead Stadium",       "type": "stadium" },
+        { "id": "EST-6",  "number": 14, "name": "Lincoln Financial Field", "type": "stadium" },
+        { "id": "EST-7",  "number": 15, "name": "Gillette Stadium",        "type": "stadium" },
+        { "id": "EST-8",  "number": 16, "name": "NRG Stadium",             "type": "stadium" },
+        { "id": "EST-9",  "number": 17, "name": "Hard Rock Stadium",       "type": "stadium" },
+        { "id": "EST-10", "number": 18, "name": "Lumen Field",             "type": "stadium" },
+        { "id": "EST-11", "number": 19, "name": "BC Place",                "type": "stadium" },
+        { "id": "EST-12", "number": 20, "name": "BMO Field",               "type": "stadium" },
+        { "id": "EST-13", "number": 21, "name": "Estadio Azteca",          "type": "stadium" },
+        { "id": "EST-14", "number": 22, "name": "Estadio Guadalajara",     "type": "stadium" },
+        { "id": "EST-15", "number": 23, "name": "Estadio Monterrey",       "type": "stadium" },
+        { "id": "EST-16", "number": 24, "name": "Estadio Monterrey 2",     "type": "stadium" }
+      ]
+    },
+    {
+      "id": "equipos",
+      "name": "Selecciones",
+      "suggestedValue": 1,
+      "style": {
+        "borderColor": "#3A5A72",
+        "backgroundColor": "#0B1F3A"
+      },
+      "teams": [
+        {
+          "id": "COL", "name": "Colombia",
+          "branding": { "primaryColor": "#FCD116", "secondaryColor": "#003087", "accentColor": "#CE1126", "flagEmoji": "🇨🇴", "badgeLabel": "COLOMBIA" },
+          "stickers": [
+            { "id": "COL-1",  "number": 25, "type": "badge",  "suggestedValue": 3 },
+            { "id": "COL-2",  "number": 26, "type": "player" },
+            { "id": "COL-3",  "number": 27, "type": "player" },
+            { "id": "COL-4",  "number": 28, "type": "player" },
+            { "id": "COL-5",  "number": 29, "type": "player" },
+            { "id": "COL-6",  "number": 30, "type": "player" },
+            { "id": "COL-7",  "number": 31, "type": "player" },
+            { "id": "COL-8",  "number": 32, "type": "player" },
+            { "id": "COL-9",  "number": 33, "type": "player" },
+            { "id": "COL-10", "number": 34, "type": "player" }
+          ]
+        },
+        {
+          "id": "ARG", "name": "Argentina",
+          "branding": { "primaryColor": "#74ACDF", "secondaryColor": "#FFFFFF", "flagEmoji": "🇦🇷", "badgeLabel": "ARGENTINA" },
+          "stickers": [
+            { "id": "ARG-1",  "number": 35, "type": "badge",  "suggestedValue": 3 },
+            { "id": "ARG-2",  "number": 36, "type": "player" },
+            { "id": "ARG-3",  "number": 37, "type": "player" },
+            { "id": "ARG-4",  "number": 38, "type": "player" },
+            { "id": "ARG-5",  "number": 39, "type": "player" },
+            { "id": "ARG-6",  "number": 40, "type": "player" },
+            { "id": "ARG-7",  "number": 41, "type": "player" },
+            { "id": "ARG-8",  "number": 42, "type": "player" },
+            { "id": "ARG-9",  "number": 43, "type": "player" },
+            { "id": "ARG-10", "number": 44, "type": "player" }
+          ]
+        },
+        {
+          "id": "BRA", "name": "Brasil",
+          "branding": { "primaryColor": "#009C3B", "secondaryColor": "#FFDF00", "accentColor": "#002776", "flagEmoji": "🇧🇷", "badgeLabel": "BRASIL" },
+          "stickers": [
+            { "id": "BRA-1",  "number": 45, "type": "badge",  "suggestedValue": 3 },
+            { "id": "BRA-2",  "number": 46, "type": "player" },
+            { "id": "BRA-3",  "number": 47, "type": "player" },
+            { "id": "BRA-4",  "number": 48, "type": "player" },
+            { "id": "BRA-5",  "number": 49, "type": "player" },
+            { "id": "BRA-6",  "number": 50, "type": "player" },
+            { "id": "BRA-7",  "number": 51, "type": "player" },
+            { "id": "BRA-8",  "number": 52, "type": "player" },
+            { "id": "BRA-9",  "number": 53, "type": "player" },
+            { "id": "BRA-10", "number": 54, "type": "player" }
+          ]
+        },
+        {
+          "id": "FRA", "name": "Francia",
+          "branding": { "primaryColor": "#002395", "secondaryColor": "#FFFFFF", "accentColor": "#ED2939", "flagEmoji": "🇫🇷", "badgeLabel": "FRANCE" },
+          "stickers": [
+            { "id": "FRA-1",  "number": 55, "type": "badge",  "suggestedValue": 3 },
+            { "id": "FRA-2",  "number": 56, "type": "player" },
+            { "id": "FRA-3",  "number": 57, "type": "player" },
+            { "id": "FRA-4",  "number": 58, "type": "player" },
+            { "id": "FRA-5",  "number": 59, "type": "player" },
+            { "id": "FRA-6",  "number": 60, "type": "player" },
+            { "id": "FRA-7",  "number": 61, "type": "player" },
+            { "id": "FRA-8",  "number": 62, "type": "player" },
+            { "id": "FRA-9",  "number": 63, "type": "player" },
+            { "id": "FRA-10", "number": 64, "type": "player" }
+          ]
+        },
+        {
+          "id": "ESP", "name": "España",
+          "branding": { "primaryColor": "#AA151B", "secondaryColor": "#F1BF00", "flagEmoji": "🇪🇸", "badgeLabel": "ESPAÑA" },
+          "stickers": [
+            { "id": "ESP_T-1",  "number": 65, "type": "badge",  "suggestedValue": 3 },
+            { "id": "ESP_T-2",  "number": 66, "type": "player" },
+            { "id": "ESP_T-3",  "number": 67, "type": "player" },
+            { "id": "ESP_T-4",  "number": 68, "type": "player" },
+            { "id": "ESP_T-5",  "number": 69, "type": "player" },
+            { "id": "ESP_T-6",  "number": 70, "type": "player" },
+            { "id": "ESP_T-7",  "number": 71, "type": "player" },
+            { "id": "ESP_T-8",  "number": 72, "type": "player" },
+            { "id": "ESP_T-9",  "number": 73, "type": "player" },
+            { "id": "ESP_T-10", "number": 74, "type": "player" }
+          ]
+        },
+        {
+          "id": "GER", "name": "Alemania",
+          "branding": { "primaryColor": "#000000", "secondaryColor": "#DD0000", "accentColor": "#FFCE00", "flagEmoji": "🇩🇪", "badgeLabel": "GERMANY" },
+          "stickers": [
+            { "id": "GER-1",  "number": 75, "type": "badge",  "suggestedValue": 3 },
+            { "id": "GER-2",  "number": 76, "type": "player" },
+            { "id": "GER-3",  "number": 77, "type": "player" },
+            { "id": "GER-4",  "number": 78, "type": "player" },
+            { "id": "GER-5",  "number": 79, "type": "player" },
+            { "id": "GER-6",  "number": 80, "type": "player" },
+            { "id": "GER-7",  "number": 81, "type": "player" },
+            { "id": "GER-8",  "number": 82, "type": "player" },
+            { "id": "GER-9",  "number": 83, "type": "player" },
+            { "id": "GER-10", "number": 84, "type": "player" }
+          ]
+        }
+      ]
+    }
+  ]
+}
