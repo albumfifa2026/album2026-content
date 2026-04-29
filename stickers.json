@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "status": "preview",
   "album": {
     "name": "FIFA World Cup 2026",
@@ -69,7 +69,7 @@
             { "id": "MEX-10", "number": 18, "type": "player" },
             { "id": "MEX-11", "number": 19, "type": "player" },
             { "id": "MEX-12", "number": 20, "type": "player" },
-            { "id": "MEX-13", "number": 21, "type": "team", name: "Equipo México" },
+            { "id": "MEX-13", "number": 21, "type": "team", "label": "Equipo México" },
             { "id": "MEX-14", "number": 22, "type": "player" },
             { "id": "MEX-15", "number": 23, "type": "player" },
             { "id": "MEX-16", "number": 24, "type": "player" },
