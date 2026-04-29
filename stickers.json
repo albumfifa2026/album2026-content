@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "status": "preview",
   "album": {
     "name": "FIFA World Cup 2026",
@@ -1111,7 +1111,7 @@
             { "id": "POR-12", "number": 820, "type": "player" },
             { "id": "POR-13", "number": 821, "type": "team" },
             { "id": "POR-14", "number": 822, "type": "player" },
-            { "id": "POR-15", "number": 823, "type": "GOAT" },
+            { "id": "POR-15", "number": 823, "type": "player" },
             { "id": "POR-16", "number": 824, "type": "player" },
             { "id": "POR-17", "number": 825, "type": "player" },
             { "id": "POR-18", "number": 826, "type": "player" },
