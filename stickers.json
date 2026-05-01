@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "status": "preview",
   "album": {
     "name": "FIFA World Cup 2026",
@@ -146,7 +146,7 @@
             { "id": "CZE-9",  "number": 77, "type": "player", "label": "Michal Sadílek" },
             { "id": "CZE-10", "number": 78, "type": "player", "label": "Lukás Provod" },
             { "id": "CZE-11", "number": 79, "type": "player", "label": "Lukás Cerv" },
-            { "id": "CZE-12", "number": 80, "type": "player", "label": "Tomás Souček" },
+            { "id": "CZE-12", "number": 80, "type": "player", "label": "Tomás Soucek" },
             { "id": "CZE-13", "number": 81, "type": "team", "label": "Equipo República Checa" },
             { "id": "CZE-14", "number": 82, "type": "player", "label": "Pavel Sulc" },
             { "id": "CZE-15", "number": 83, "type": "player", "label": "Matěj Vydra" },
@@ -675,6 +675,31 @@
             { "id": "TUN-18", "number": 486, "type": "player", "label": "Ismaël Gharbi" },
             { "id": "TUN-19", "number": 487, "type": "player", "label": "Sayfallah Ltaief" },
             { "id": "TUN-20", "number": 488, "type": "player", "label": "Naïm Sliti" }
+          ]
+        },
+        {
+          "id": "cocacola",
+          "name": "Coca-Cola",
+          "suggestedValue": 5,
+          "style": {
+            "borderColor": "#F40009",
+            "backgroundColor": "#1a0000",
+            "badgeLabel": "Coca-Cola",
+            "badgeColor": "#F40009"
+          },
+          "stickers": [
+            { "id": "CC-01",  "number": 969, "type": "special", "label": "Lamine Yamal - Spain" },
+            { "id": "CC-02",  "number": 970, "type": "special", "label": "Joshua Kimmich - Germany" },
+            { "id": "CC-03",  "number": 971, "type": "special", "label": "Harry Kane - England" },
+            { "id": "CC-04",  "number": 972, "type": "special", "label": "Santiago Giménez - Mexico" },
+            { "id": "CC-05",  "number": 973, "type": "special", "label": "Antonee Robinson - USA" },
+            { "id": "CC-06",  "number": 974, "type": "special", "label": "Jefferson Lerma - Colombia" },
+            { "id": "CC-07",  "number": 975, "type": "special", "label": "Edson Álvarez - Mexico" },
+            { "id": "CC-08",  "number": 976, "type": "special", "label": "Virgil van Dijk - Netherlands" },
+            { "id": "CC-09",  "number": 977, "type": "special", "label": "Alphonso Davies - Canada" },
+            { "id": "CC-10", "number": 978, "type": "special", "label": "Weston McKennie - USA" },
+            { "id": "CC-11", "number": 979, "type": "special", "label": "Lautaro Martínez - Argentina" },
+            { "id": "CC-12", "number": 980, "type": "special", "label": "Gabriel Magalhães - Brazil" }
           ]
         },
         {
@@ -1301,31 +1326,6 @@
             { "id": "PAN-20", "number": 968, "type": "player", "label": "Alberto Quintero" }
           ]
         }
-      ]
-    },
-    {
-      "id": "cocacola",
-      "name": "Coca-Cola",
-      "suggestedValue": 5,
-      "style": {
-        "borderColor": "#F40009",
-        "backgroundColor": "#1a0000",
-        "badgeLabel": "Coca-Cola",
-        "badgeColor": "#F40009"
-      },
-      "stickers": [
-        { "id": "CC-01",  "number": 969, "type": "special", "label": "Lamine Yamal - Spain" },
-        { "id": "CC-02",  "number": 970, "type": "special", "label": "Joshua Kimmich - Germany" },
-        { "id": "CC-03",  "number": 971, "type": "special", "label": "Harry Kane - England" },
-        { "id": "CC-04",  "number": 972, "type": "special", "label": "Santiago Giménez - Mexico" },
-        { "id": "CC-05",  "number": 973, "type": "special", "label": "Antonee Robinson - USA" },
-        { "id": "CC-06",  "number": 974, "type": "special", "label": "Jefferson Lerma - Colombia" },
-        { "id": "CC-07",  "number": 975, "type": "special", "label": "Edson Álvarez - Mexico" },
-        { "id": "CC-08",  "number": 976, "type": "special", "label": "Virgil van Dijk - Netherlands" },
-        { "id": "CC-09",  "number": 977, "type": "special", "label": "Alphonso Davies - Canada" },
-        { "id": "CC-10", "number": 978, "type": "special", "label": "Weston McKennie - USA" },
-        { "id": "CC-11", "number": 979, "type": "special", "label": "Lautaro Martínez - Argentina" },
-        { "id": "CC-12", "number": 980, "type": "special", "label": "Gabriel Magalhães - Brazil" }
       ]
     },
     {
