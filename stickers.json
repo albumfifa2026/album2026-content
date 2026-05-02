@@ -1,5 +1,5 @@
 {
-  "version": "2.0.8",
+  "version": "2.0.9",
   "status": "preview",
   "album": {
     "name": "FIFA World Cup 2026",
@@ -57,7 +57,7 @@
           "id": "MEX", "name": "México", "group": "A",
           "branding": { "primaryColor": "#006847", "secondaryColor": "#CE1126", "accentColor": "#FFFFFF", "flagEmoji": "🇲🇽", "badgeLabel": "MEX" },
           "stickers": [
-            { "id": "MEX-1",  "number": 9,  "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "MEX-1",  "number": 9,  "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "MEX-2",  "number": 10, "type": "player", "label": "Luis Malagón" },
             { "id": "MEX-3",  "number": 11, "type": "player", "label": "Johan Vásquez" },
             { "id": "MEX-4",  "number": 12, "type": "player", "label": "Jorge Sánchez" },
@@ -83,7 +83,7 @@
           "id": "RSA", "name": "Sudáfrica", "group": "A",
           "branding": { "primaryColor": "#007A4D", "secondaryColor": "#FFB81C", "accentColor": "#DE3831", "flagEmoji": "🇿🇦", "badgeLabel": "RSA" },
           "stickers": [
-            { "id": "RSA-1",  "number": 29, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "RSA-1",  "number": 29, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "RSA-2",  "number": 30, "type": "player", "label": "Ronwen Williams" },
             { "id": "RSA-3",  "number": 31, "type": "player", "label": "Sipho Chaine" },
             { "id": "RSA-4",  "number": 32, "type": "player", "label": "Aubrey Modiba" },
@@ -109,7 +109,7 @@
           "id": "KOR", "name": "Corea del Sur", "group": "A",
           "branding": { "primaryColor": "#CD2E3A", "secondaryColor": "#003478", "flagEmoji": "🇰🇷", "badgeLabel": "KOR" },
           "stickers": [
-            { "id": "KOR-1",  "number": 49, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "KOR-1",  "number": 49, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "KOR-2",  "number": 50, "type": "player", "label": "Jo Hyeon-Woo" },
             { "id": "KOR-3",  "number": 51, "type": "player", "label": "Kim Seung-Gyu" },
             { "id": "KOR-4",  "number": 52, "type": "player", "label": "Kim Min-Jae" },
@@ -135,7 +135,7 @@
           "id": "CZE", "name": "República Checa", "group": "A",
           "branding": { "primaryColor": "#D7141A", "secondaryColor": "#11457E", "accentColor": "#FFFFFF", "flagEmoji": "🇨🇿", "badgeLabel": "CZE" },
           "stickers": [
-            { "id": "CZE-1",  "number": 69, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "CZE-1",  "number": 69, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "CZE-2",  "number": 70, "type": "player", "label": "Matej Kovar" },
             { "id": "CZE-3",  "number": 71, "type": "player", "label": "Jindřich Staněk" },
             { "id": "CZE-4",  "number": 72, "type": "player", "label": "Ladislav Krejcí" },
@@ -146,7 +146,7 @@
             { "id": "CZE-9",  "number": 77, "type": "player", "label": "Michal Sadílek" },
             { "id": "CZE-10", "number": 78, "type": "player", "label": "Lukás Provod" },
             { "id": "CZE-11", "number": 79, "type": "player", "label": "Lukás Cerv" },
-            { "id": "CZE-12", "number": 80, "type": "player", "label": "Tomás Soucek" },
+            { "id": "CZE-12", "number": 80, "type": "player", "label": "Tomás Souček" },
             { "id": "CZE-13", "number": 81, "type": "team", "label": "Equipo República Checa" },
             { "id": "CZE-14", "number": 82, "type": "player", "label": "Pavel Sulc" },
             { "id": "CZE-15", "number": 83, "type": "player", "label": "Matěj Vydra" },
@@ -161,7 +161,7 @@
           "id": "CAN", "name": "Canadá", "group": "B",
           "branding": { "primaryColor": "#FF0000", "secondaryColor": "#FFFFFF", "flagEmoji": "🇨🇦", "badgeLabel": "CAN" },
           "stickers": [
-            { "id": "CAN-1",  "number": 89,  "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "CAN-1",  "number": 89,  "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "CAN-2",  "number": 90,  "type": "player", "label": "Dayne St. Clair" },
             { "id": "CAN-3",  "number": 91,  "type": "player", "label": "Alphonso Davies" },
             { "id": "CAN-4",  "number": 92,  "type": "player", "label": "Alistair Johnston" },
@@ -187,7 +187,7 @@
           "id": "BIH", "name": "Bosnia y Herzegovina", "group": "B",
           "branding": { "primaryColor": "#002395", "secondaryColor": "#FFCD00", "flagEmoji": "🇧🇦", "badgeLabel": "BIH" },
           "stickers": [
-            { "id": "BIH-1",  "number": 109, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "BIH-1",  "number": 109, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "BIH-2",  "number": 110, "type": "player", "label": "Nikola Vasiljev" },
             { "id": "BIH-3",  "number": 111, "type": "player", "label": "Amar Dedic" },
             { "id": "BIH-4",  "number": 112, "type": "player", "label": "Sead Kolasinac" },
@@ -213,7 +213,7 @@
           "id": "QAT", "name": "Qatar", "group": "B",
           "branding": { "primaryColor": "#8D1B3D", "secondaryColor": "#FFFFFF", "flagEmoji": "🇶🇦", "badgeLabel": "QAT" },
           "stickers": [
-            { "id": "QAT-1",  "number": 129, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "QAT-1",  "number": 129, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "QAT-2",  "number": 130, "type": "player", "label": "Meshaal Barsham" },
             { "id": "QAT-3",  "number": 131, "type": "player", "label": "Sultan Al-Brake" },
             { "id": "QAT-4",  "number": 132, "type": "player", "label": "Lucas Mendes" },
@@ -239,7 +239,7 @@
           "id": "SUI", "name": "Suiza", "group": "B",
           "branding": { "primaryColor": "#FF0000", "secondaryColor": "#FFFFFF", "flagEmoji": "🇨🇭", "badgeLabel": "SUI" },
           "stickers": [
-            { "id": "SUI-1",  "number": 149, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "SUI-1",  "number": 149, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "SUI-2",  "number": 150, "type": "player", "label": "Gregor Kobel" },
             { "id": "SUI-3",  "number": 151, "type": "player", "label": "Yvon Mvogo" },
             { "id": "SUI-4",  "number": 152, "type": "player", "label": "Manuel Akanji" },
@@ -265,7 +265,7 @@
           "id": "BRA", "name": "Brasil", "group": "C",
           "branding": { "primaryColor": "#009C3B", "secondaryColor": "#FFDF00", "accentColor": "#002776", "flagEmoji": "🇧🇷", "badgeLabel": "BRA" },
           "stickers": [
-            { "id": "BRA-1",  "number": 169, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "BRA-1",  "number": 169, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "BRA-2",  "number": 170, "type": "player", "label": "Alisson" },
             { "id": "BRA-3",  "number": 171, "type": "player", "label": "Bento" },
             { "id": "BRA-4",  "number": 172, "type": "player", "label": "Marquinhos" },
@@ -291,7 +291,7 @@
           "id": "MAR", "name": "Marruecos", "group": "C",
           "branding": { "primaryColor": "#C1272D", "secondaryColor": "#006233", "flagEmoji": "🇲🇦", "badgeLabel": "MAR" },
           "stickers": [
-            { "id": "MAR-1",  "number": 189, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "MAR-1",  "number": 189, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "MAR-2",  "number": 190, "type": "player", "label": "Yassine Bounou" },
             { "id": "MAR-3",  "number": 191, "type": "player", "label": "Munir El Haddadi" },
             { "id": "MAR-4",  "number": 192, "type": "player", "label": "Achraf Hakimi" },
@@ -317,7 +317,7 @@
           "id": "HAI", "name": "Haití", "group": "C",
           "branding": { "primaryColor": "#00209F", "secondaryColor": "#D21034", "flagEmoji": "🇭🇹", "badgeLabel": "HAI" },
           "stickers": [
-            { "id": "HAI-1",  "number": 209, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "HAI-1",  "number": 209, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "HAI-2",  "number": 210, "type": "player", "label": "Johny Placide" },
             { "id": "HAI-3",  "number": 211, "type": "player", "label": "Carlens Arcus" },
             { "id": "HAI-4",  "number": 212, "type": "player", "label": "Martin Expérience" },
@@ -343,7 +343,7 @@
           "id": "SCO", "name": "Escocia", "group": "C",
           "branding": { "primaryColor": "#003DA5", "secondaryColor": "#FFFFFF", "accentColor": "#FFD700", "flagEmoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "badgeLabel": "SCO" },
           "stickers": [
-            { "id": "SCO-1",  "number": 229, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "SCO-1",  "number": 229, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "SCO-2",  "number": 230, "type": "player", "label": "Angus Gunn" },
             { "id": "SCO-3",  "number": 231, "type": "player", "label": "Jack Hendry" },
             { "id": "SCO-4",  "number": 232, "type": "player", "label": "Kieran Tierney" },
@@ -369,7 +369,7 @@
           "id": "USA", "name": "Estados Unidos", "group": "D",
           "branding": { "primaryColor": "#002868", "secondaryColor": "#BF0A30", "accentColor": "#FFFFFF", "flagEmoji": "🇺🇸", "badgeLabel": "USA" },
           "stickers": [
-            { "id": "USA-1",  "number": 249, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "USA-1",  "number": 249, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "USA-2",  "number": 250, "type": "player", "label": "Matthew Freese" },
             { "id": "USA-3",  "number": 251, "type": "player", "label": "Chris Richards" },
             { "id": "USA-4",  "number": 252, "type": "player", "label": "Tim Ream" },
@@ -395,7 +395,7 @@
           "id": "PAR", "name": "Paraguay", "group": "D",
           "branding": { "primaryColor": "#D52B1E", "secondaryColor": "#002868", "accentColor": "#FFFFFF", "flagEmoji": "🇵🇾", "badgeLabel": "PAR" },
           "stickers": [
-            { "id": "PAR-1",  "number": 269, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "PAR-1",  "number": 269, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "PAR-2",  "number": 270, "type": "player", "label": "Gatito Fernández" },
             { "id": "PAR-3",  "number": 271, "type": "player", "label": "Orlando Gil" },
             { "id": "PAR-4",  "number": 272, "type": "player", "label": "Gustavo Gómez" },
@@ -421,7 +421,7 @@
           "id": "AUS", "name": "Australia", "group": "D",
           "branding": { "primaryColor": "#00843D", "secondaryColor": "#FFD700", "flagEmoji": "🇦🇺", "badgeLabel": "AUS" },
           "stickers": [
-            { "id": "AUS-1",  "number": 289, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "AUS-1",  "number": 289, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "AUS-2",  "number": 290, "type": "player", "label": "Mathew Ryan" },
             { "id": "AUS-3",  "number": 291, "type": "player", "label": "Joe Gauci" },
             { "id": "AUS-4",  "number": 292, "type": "player", "label": "Harry Souttar" },
@@ -447,7 +447,7 @@
           "id": "TUR", "name": "Turquía", "group": "D",
           "branding": { "primaryColor": "#E30A17", "secondaryColor": "#FFFFFF", "flagEmoji": "🇹🇷", "badgeLabel": "TUR" },
           "stickers": [
-            { "id": "TUR-1",  "number": 309, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "TUR-1",  "number": 309, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "TUR-2",  "number": 310, "type": "player", "label": "Ugurcan Çakir" },
             { "id": "TUR-3",  "number": 311, "type": "player", "label": "Mert Müldür" },
             { "id": "TUR-4",  "number": 312, "type": "player", "label": "Zeki Çelik" },
@@ -473,7 +473,7 @@
           "id": "GER", "name": "Alemania", "group": "E",
           "branding": { "primaryColor": "#000000", "secondaryColor": "#DD0000", "accentColor": "#FFCE00", "flagEmoji": "🇩🇪", "badgeLabel": "GER" },
           "stickers": [
-            { "id": "GER-1",  "number": 329, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "GER-1",  "number": 329, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "GER-2",  "number": 330, "type": "player", "label": "Marc-André ter Stegen" },
             { "id": "GER-3",  "number": 331, "type": "player", "label": "Jonathan Tah" },
             { "id": "GER-4",  "number": 332, "type": "player", "label": "David Raum" },
@@ -499,7 +499,7 @@
           "id": "CUW", "name": "Curazao", "group": "E",
           "branding": { "primaryColor": "#003DA5", "secondaryColor": "#F9E400", "accentColor": "#FFFFFF", "flagEmoji": "🇨🇼", "badgeLabel": "CUW" },
           "stickers": [
-            { "id": "CUW-1",  "number": 349, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "CUW-1",  "number": 349, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "CUW-2",  "number": 350, "type": "player", "label": "Eloy Room" },
             { "id": "CUW-3",  "number": 351, "type": "player", "label": "Armando Obispo" },
             { "id": "CUW-4",  "number": 352, "type": "player", "label": "Sherel Floranus" },
@@ -525,7 +525,7 @@
           "id": "CIV", "name": "Costa de Marfil", "group": "E",
           "branding": { "primaryColor": "#F77F00", "secondaryColor": "#009A44", "accentColor": "#FFFFFF", "flagEmoji": "🇨🇮", "badgeLabel": "CIV" },
           "stickers": [
-            { "id": "CIV-1",  "number": 369, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "CIV-1",  "number": 369, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "CIV-2",  "number": 370, "type": "player", "label": "Yahia Fofana" },
             { "id": "CIV-3",  "number": 371, "type": "player", "label": "Ghislain Konan" },
             { "id": "CIV-4",  "number": 372, "type": "player", "label": "Wilfried Singo" },
@@ -551,7 +551,7 @@
           "id": "ECU", "name": "Ecuador", "group": "E",
           "branding": { "primaryColor": "#FFD100", "secondaryColor": "#0033A0", "accentColor": "#CE1126", "flagEmoji": "🇪🇨", "badgeLabel": "ECU" },
           "stickers": [
-            { "id": "ECU-1",  "number": 389, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "ECU-1",  "number": 389, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "ECU-2",  "number": 390, "type": "player", "label": "Hernán Galíndez" },
             { "id": "ECU-3",  "number": 391, "type": "player", "label": "Gonzalo Valle" },
             { "id": "ECU-4",  "number": 392, "type": "player", "label": "Piero Hincapié" },
@@ -577,7 +577,7 @@
           "id": "NED", "name": "Países Bajos", "group": "F",
           "branding": { "primaryColor": "#FF6600", "secondaryColor": "#FFFFFF", "flagEmoji": "🇳🇱", "badgeLabel": "NED" },
           "stickers": [
-            { "id": "NED-1",  "number": 409, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "NED-1",  "number": 409, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "NED-2",  "number": 410, "type": "player", "label": "Bart Verbruggen" },
             { "id": "NED-3",  "number": 411, "type": "player", "label": "Virgil van Dijk" },
             { "id": "NED-4",  "number": 412, "type": "player", "label": "Micky van de Ven" },
@@ -603,7 +603,7 @@
           "id": "JPN", "name": "Japón", "group": "F",
           "branding": { "primaryColor": "#BC0020", "secondaryColor": "#FFFFFF", "flagEmoji": "🇯🇵", "badgeLabel": "JPN" },
           "stickers": [
-            { "id": "JPN-1",  "number": 429, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "JPN-1",  "number": 429, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "JPN-2",  "number": 430, "type": "player", "label": "Zion Suzuki" },
             { "id": "JPN-3",  "number": 431, "type": "player", "label": "Heroki Mochizuki" },
             { "id": "JPN-4",  "number": 432, "type": "player", "label": "Ayumu Seko" },
@@ -629,7 +629,7 @@
           "id": "SWE", "name": "Suecia", "group": "F",
           "branding": { "primaryColor": "#006AA7", "secondaryColor": "#FECC02", "flagEmoji": "🇸🇪", "badgeLabel": "SWE" },
           "stickers": [
-            { "id": "SWE-1",  "number": 449, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "SWE-1",  "number": 449, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "SWE-2",  "number": 450, "type": "player", "label": "Viktor Johansson" },
             { "id": "SWE-3",  "number": 451, "type": "player", "label": "Isak Hien" },
             { "id": "SWE-4",  "number": 452, "type": "player", "label": "Gabriel Gudmundsson" },
@@ -655,7 +655,7 @@
           "id": "TUN", "name": "Túnez", "group": "F",
           "branding": { "primaryColor": "#E70013", "secondaryColor": "#FFFFFF", "flagEmoji": "🇹🇳", "badgeLabel": "TUN" },
           "stickers": [
-            { "id": "TUN-1",  "number": 469, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "TUN-1",  "number": 469, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "TUN-2",  "number": 470, "type": "player", "label": "Bechir Ben Saïd" },
             { "id": "TUN-3",  "number": 471, "type": "player", "label": "Aymen Dahmen" },
             { "id": "TUN-4",  "number": 472, "type": "player", "label": "Yan Valery" },
@@ -706,7 +706,7 @@
           "id": "BEL", "name": "Bélgica", "group": "G",
           "branding": { "primaryColor": "#EF3340", "secondaryColor": "#000000", "accentColor": "#F9E000", "flagEmoji": "🇧🇪", "badgeLabel": "BEL" },
           "stickers": [
-            { "id": "BEL-1",  "number": 489, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "BEL-1",  "number": 489, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "BEL-2",  "number": 490, "type": "player", "label": "Thibaut Courtois" },
             { "id": "BEL-3",  "number": 491, "type": "player", "label": "Arthur Theate" },
             { "id": "BEL-4",  "number": 492, "type": "player", "label": "Timothy Castagne" },
@@ -732,7 +732,7 @@
           "id": "EGY", "name": "Egipto", "group": "G",
           "branding": { "primaryColor": "#CE1126", "secondaryColor": "#FFFFFF", "accentColor": "#000000", "flagEmoji": "🇪🇬", "badgeLabel": "EGY" },
           "stickers": [
-            { "id": "EGY-1",  "number": 509, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "EGY-1",  "number": 509, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "EGY-2",  "number": 510, "type": "player", "label": "Mohamed El Shenawy" },
             { "id": "EGY-3",  "number": 511, "type": "player", "label": "Mohamed Hany" },
             { "id": "EGY-4",  "number": 512, "type": "player", "label": "Mohamed Hamdy" },
@@ -758,7 +758,7 @@
           "id": "IRN", "name": "Irán", "group": "G",
           "branding": { "primaryColor": "#239F40", "secondaryColor": "#DA0000", "accentColor": "#FFFFFF", "flagEmoji": "🇮🇷", "badgeLabel": "IRN" },
           "stickers": [
-            { "id": "IRN-1",  "number": 529, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "IRN-1",  "number": 529, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "IRN-2",  "number": 530, "type": "player", "label": "Alireza Beiranvand" },
             { "id": "IRN-3",  "number": 531, "type": "player", "label": "Morteza Pouraliganji" },
             { "id": "IRN-4",  "number": 532, "type": "player", "label": "Ehsan Hajsafi" },
@@ -784,7 +784,7 @@
           "id": "NZL", "name": "Nueva Zelanda", "group": "G",
           "branding": { "primaryColor": "#00247D", "secondaryColor": "#CC142B", "flagEmoji": "🇳🇿", "badgeLabel": "NZL" },
           "stickers": [
-            { "id": "NZL-1",  "number": 549, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "NZL-1",  "number": 549, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "NZL-2",  "number": 550, "type": "player", "label": "Max Crocombe" },
             { "id": "NZL-3",  "number": 551, "type": "player", "label": "Alex Paulsen" },
             { "id": "NZL-4",  "number": 552, "type": "player", "label": "Michael Boxall" },
@@ -810,7 +810,7 @@
           "id": "ESP", "name": "España", "group": "H",
           "branding": { "primaryColor": "#AA151B", "secondaryColor": "#F1BF00", "flagEmoji": "🇪🇸", "badgeLabel": "ESP" },
           "stickers": [
-            { "id": "ESP-1",  "number": 569, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "ESP-1",  "number": 569, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "ESP-2",  "number": 570, "type": "player", "label": "Unai Simon" },
             { "id": "ESP-3",  "number": 571, "type": "player", "label": "Robin Le Normand" },
             { "id": "ESP-4",  "number": 572, "type": "player", "label": "Aymeric Laporte" },
@@ -836,7 +836,7 @@
           "id": "CPV", "name": "Cabo Verde", "group": "H",
           "branding": { "primaryColor": "#003893", "secondaryColor": "#CF2027", "accentColor": "#F7D116", "flagEmoji": "🇨🇻", "badgeLabel": "CPV" },
           "stickers": [
-            { "id": "CPV-1",  "number": 589, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "CPV-1",  "number": 589, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "CPV-2",  "number": 590, "type": "player", "label": "Vozinha" },
             { "id": "CPV-3",  "number": 591, "type": "player", "label": "Logan Costa" },
             { "id": "CPV-4",  "number": 592, "type": "player", "label": "Pico" },
@@ -862,7 +862,7 @@
           "id": "KSA", "name": "Arabia Saudita", "group": "H",
           "branding": { "primaryColor": "#006C35", "secondaryColor": "#FFFFFF", "flagEmoji": "🇸🇦", "badgeLabel": "KSA" },
           "stickers": [
-            { "id": "KSA-1",  "number": 609, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "KSA-1",  "number": 609, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "KSA-2",  "number": 610, "type": "player", "label": "Nawaf Alaqidi" },
             { "id": "KSA-3",  "number": 611, "type": "player", "label": "Abdulrahman Al-Sanbi" },
             { "id": "KSA-4",  "number": 612, "type": "player", "label": "Saud Abdulhamid" },
@@ -888,7 +888,7 @@
           "id": "URU", "name": "Uruguay", "group": "H",
           "branding": { "primaryColor": "#5BA4CF", "secondaryColor": "#FFFFFF", "flagEmoji": "🇺🇾", "badgeLabel": "URU" },
           "stickers": [
-            { "id": "URU-1",  "number": 629, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "URU-1",  "number": 629, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "URU-2",  "number": 630, "type": "player", "label": "Sergio Rochet" },
             { "id": "URU-3",  "number": 631, "type": "player", "label": "Santiago Mele" },
             { "id": "URU-4",  "number": 632, "type": "player", "label": "Ronald Araujo" },
@@ -914,7 +914,7 @@
           "id": "FRA", "name": "Francia", "group": "I",
           "branding": { "primaryColor": "#002395", "secondaryColor": "#FFFFFF", "accentColor": "#ED2939", "flagEmoji": "🇫🇷", "badgeLabel": "FRA" },
           "stickers": [
-            { "id": "FRA-1",  "number": 649, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "FRA-1",  "number": 649, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "FRA-2",  "number": 650, "type": "player", "label": "Mike Maignan" },
             { "id": "FRA-3",  "number": 651, "type": "player", "label": "Theo Hernandez " },
             { "id": "FRA-4",  "number": 652, "type": "player", "label": "William Saliba" },
@@ -940,7 +940,7 @@
           "id": "SEN", "name": "Senegal", "group": "I",
           "branding": { "primaryColor": "#00853F", "secondaryColor": "#FDEF42", "accentColor": "#E31B23", "flagEmoji": "🇸🇳", "badgeLabel": "SEN" },
           "stickers": [
-            { "id": "SEN-1",  "number": 669, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "SEN-1",  "number": 669, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "SEN-2",  "number": 670, "type": "player", "label": "Edouard Mendy" },
             { "id": "SEN-3",  "number": 671, "type": "player", "label": "Yehvann Diouf" },
             { "id": "SEN-4",  "number": 672, "type": "player", "label": "Moussa Niakhaté" },
@@ -966,7 +966,7 @@
           "id": "IRQ", "name": "Irak", "group": "I",
           "branding": { "primaryColor": "#CE1126", "secondaryColor": "#007A3D", "accentColor": "#000000", "flagEmoji": "🇮🇶", "badgeLabel": "IRQ" },
           "stickers": [
-            { "id": "IRQ-1",  "number": 689, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "IRQ-1",  "number": 689, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "IRQ-2",  "number": 690, "type": "player", "label": "Jalal Hassan" },
             { "id": "IRQ-3",  "number": 691, "type": "player", "label": "Rebin Sulaka" },
             { "id": "IRQ-4",  "number": 692, "type": "player", "label": "Hussein Ali" },
@@ -992,7 +992,7 @@
           "id": "NOR", "name": "Noruega", "group": "I",
           "branding": { "primaryColor": "#EF2B2D", "secondaryColor": "#002868", "accentColor": "#FFFFFF", "flagEmoji": "🇳🇴", "badgeLabel": "NOR" },
           "stickers": [
-            { "id": "NOR-1",  "number": 709, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "NOR-1",  "number": 709, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "NOR-2",  "number": 710, "type": "player", "label": "Orjan Nyland" },
             { "id": "NOR-3",  "number": 711, "type": "player", "label": "Julian Ryerson" },
             { "id": "NOR-4",  "number": 712, "type": "player", "label": "Leo Ostigård" },
@@ -1018,7 +1018,7 @@
           "id": "ARG", "name": "Argentina", "group": "J",
           "branding": { "primaryColor": "#74ACDF", "secondaryColor": "#FFFFFF", "flagEmoji": "🇦🇷", "badgeLabel": "ARG" },
           "stickers": [
-            { "id": "ARG-1",  "number": 729, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "ARG-1",  "number": 729, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "ARG-2",  "number": 730, "type": "player", "label": "Emiliano Martinez" },
             { "id": "ARG-3",  "number": 731, "type": "player", "label": "Nahuel Molina" },
             { "id": "ARG-4",  "number": 732, "type": "player", "label": "Cristian Romero" },
@@ -1044,7 +1044,7 @@
           "id": "ALG", "name": "Argelia", "group": "J",
           "branding": { "primaryColor": "#006233", "secondaryColor": "#FFFFFF", "accentColor": "#D21034", "flagEmoji": "🇩🇿", "badgeLabel": "ALG" },
           "stickers": [
-            { "id": "ALG-1",  "number": 749, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "ALG-1",  "number": 749, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "ALG-2",  "number": 750, "type": "player", "label": "Alexis Guendouz" },
             { "id": "ALG-3",  "number": 751, "type": "player", "label": "Ramy Bensebaini" },
             { "id": "ALG-4",  "number": 752, "type": "player", "label": "Youcef Atal" },
@@ -1070,7 +1070,7 @@
           "id": "AUT", "name": "Austria", "group": "J",
           "branding": { "primaryColor": "#ED2939", "secondaryColor": "#FFFFFF", "flagEmoji": "🇦🇹", "badgeLabel": "AUT" },
           "stickers": [
-            { "id": "AUT-1",  "number": 769, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "AUT-1",  "number": 769, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "AUT-2",  "number": 770, "type": "player", "label": "Alexander Schlager" },
             { "id": "AUT-3",  "number": 771, "type": "player", "label": "Patrick Pentz" },
             { "id": "AUT-4",  "number": 772, "type": "player", "label": "David Alaba" },
@@ -1096,7 +1096,7 @@
           "id": "JOR", "name": "Jordania", "group": "J",
           "branding": { "primaryColor": "#007A3D", "secondaryColor": "#CE1126", "accentColor": "#FFFFFF", "flagEmoji": "🇯🇴", "badgeLabel": "JOR" },
           "stickers": [
-            { "id": "JOR-1",  "number": 789, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "JOR-1",  "number": 789, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "JOR-2",  "number": 790, "type": "player", "label": "Yazeed Abulaila" },
             { "id": "JOR-3",  "number": 791, "type": "player", "label": "Ihsan Haddad" },
             { "id": "JOR-4",  "number": 792, "type": "player", "label": "Mohammad Abu Hashish" },
@@ -1122,7 +1122,7 @@
           "id": "POR", "name": "Portugal", "group": "K",
           "branding": { "primaryColor": "#006600", "secondaryColor": "#FF0000", "flagEmoji": "🇵🇹", "badgeLabel": "POR" },
           "stickers": [
-            { "id": "POR-1",  "number": 809, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "POR-1",  "number": 809, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "POR-2",  "number": 810, "type": "player", "label": "Diogo Costa" },
             { "id": "POR-3",  "number": 811, "type": "player", "label": "Jose Sa" },
             { "id": "POR-4",  "number": 812, "type": "player", "label": "Ruben Dias" },
@@ -1148,7 +1148,7 @@
           "id": "COD", "name": "R.D. Congo", "group": "K",
           "branding": { "primaryColor": "#007FFF", "secondaryColor": "#F7D618", "accentColor": "#CE1020", "flagEmoji": "🇨🇩", "badgeLabel": "COD" },
           "stickers": [
-            { "id": "COD-1",  "number": 829, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "COD-1",  "number": 829, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "COD-2",  "number": 830, "type": "player", "label": "Lionel Mpasi" },
             { "id": "COD-3",  "number": 831, "type": "player", "label": "Aaron Wan-Bissaka" },
             { "id": "COD-4",  "number": 832, "type": "player", "label": "Axel Tuanzebe" },
@@ -1174,7 +1174,7 @@
           "id": "UZB", "name": "Uzbekistán", "group": "K",
           "branding": { "primaryColor": "#1EB53A", "secondaryColor": "#0099B5", "accentColor": "#FFFFFF", "flagEmoji": "🇺🇿", "badgeLabel": "UZB" },
           "stickers": [
-            { "id": "UZB-1",  "number": 849, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "UZB-1",  "number": 849, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "UZB-2",  "number": 850, "type": "player", "label": "Utkir Yusupov" },
             { "id": "UZB-3",  "number": 851, "type": "player", "label": "Farrukh Savfiev" },
             { "id": "UZB-4",  "number": 852, "type": "player", "label": "Sherzod Nasrullaev" },
@@ -1200,7 +1200,7 @@
           "id": "COL", "name": "Colombia", "group": "K",
           "branding": { "primaryColor": "#FCD116", "secondaryColor": "#003087", "accentColor": "#CE1126", "flagEmoji": "🇨🇴", "badgeLabel": "COL" },
           "stickers": [
-            { "id": "COL-1",  "number": 869, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "COL-1",  "number": 869, "type": "badge",  "suggestedValue": 3, "label": "La Tricolor" },
             { "id": "COL-2",  "number": 870, "type": "player", "label": "Camilo Vargas" },
             { "id": "COL-3",  "number": 871, "type": "player", "label": "David Ospina" },
             { "id": "COL-4",  "number": 872, "type": "player", "label": "Dávinson Sánchez" },
@@ -1226,7 +1226,7 @@
           "id": "ENG", "name": "Inglaterra", "group": "L",
           "branding": { "primaryColor": "#FFFFFF", "secondaryColor": "#CF081F", "flagEmoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "badgeLabel": "ENG" },
           "stickers": [
-            { "id": "ENG-1",  "number": 889, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "ENG-1",  "number": 889, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "ENG-2",  "number": 890, "type": "player", "label": "Jordan Pickford" },
             { "id": "ENG-3",  "number": 891, "type": "player", "label": "John Stones" },
             { "id": "ENG-4",  "number": 892, "type": "player", "label": "Marc Guéhi" },
@@ -1252,7 +1252,7 @@
           "id": "CRO", "name": "Croacia", "group": "L",
           "branding": { "primaryColor": "#FF0000", "secondaryColor": "#FFFFFF", "accentColor": "#003DA5", "flagEmoji": "🇭🇷", "badgeLabel": "CRO" },
           "stickers": [
-            { "id": "CRO-1",  "number": 909, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "CRO-1",  "number": 909, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "CRO-2",  "number": 910, "type": "player", "label": "Dominik Livaković" },
             { "id": "CRO-3",  "number": 911, "type": "player", "label": "Duje Caleta-Car" },
             { "id": "CRO-4",  "number": 912, "type": "player", "label": "Josko Gvardiol" },
@@ -1278,7 +1278,7 @@
           "id": "GHA", "name": "Ghana", "group": "L",
           "branding": { "primaryColor": "#006B3F", "secondaryColor": "#FCD116", "accentColor": "#EF3340", "flagEmoji": "🇬🇭", "badgeLabel": "GHA" },
           "stickers": [
-            { "id": "GHA-1",  "number": 929, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "GHA-1",  "number": 929, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "GHA-2",  "number": 930, "type": "player", "label": "Lawrence Ati Zigi" },
             { "id": "GHA-3",  "number": 931, "type": "player", "label": "Tariq Lamptey" },
             { "id": "GHA-4",  "number": 932, "type": "player", "label": "Mohammed Salisu" },
@@ -1304,7 +1304,7 @@
           "id": "PAN", "name": "Panamá", "group": "L",
           "branding": { "primaryColor": "#DA121A", "secondaryColor": "#003580", "accentColor": "#FFFFFF", "flagEmoji": "🇵🇦", "badgeLabel": "PAN" },
           "stickers": [
-            { "id": "PAN-1",  "number": 949, "type": "badge",  "suggestedValue": 3, "label": "" },
+            { "id": "PAN-1",  "number": 949, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
             { "id": "PAN-2",  "number": 950, "type": "player", "label": "Orlando Mosquera" },
             { "id": "PAN-3",  "number": 951, "type": "player", "label": "Luis Mejia" },
             { "id": "PAN-4",  "number": 952, "type": "player", "label": "Fidel Escobar" },
