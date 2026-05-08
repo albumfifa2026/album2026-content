@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "status": "preview",
   "album": {
     "name": "FIFA World Cup 2026",
@@ -25,6 +25,7 @@
     {
       "id": "fwc_inicio",
       "name": "Láminas Especiales",
+      "page": "1-3",
       "suggestedValue": 8,
       "style": {
         "borderColor": "#C9973A",
@@ -54,7 +55,7 @@
       },
       "teams": [
         {
-          "id": "MEX", "name": "México", "group": "A",
+          "id": "MEX", "name": "México", "group": "A", "page": "8",
           "branding": { "primaryColor": "#006847", "secondaryColor": "#CE1126", "accentColor": "#FFFFFF", "flagEmoji": "🇲🇽", "badgeLabel": "MEX" },
           "stickers": [
             { "id": "MEX-1",  "number": 9,  "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
