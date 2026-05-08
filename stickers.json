@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "status": "preview",
   "album": {
     "name": "FIFA World Cup 2026",
@@ -81,7 +81,7 @@
           ]
         },
         {
-          "id": "RSA", "name": "Sudáfrica", "group": "A",
+          "id": "RSA", "name": "Sudáfrica", "group": "A", "page": "10",
           "branding": { "primaryColor": "#007A4D", "secondaryColor": "#FFB81C", "accentColor": "#DE3831", "flagEmoji": "🇿🇦", "badgeLabel": "RSA" },
           "stickers": [
             { "id": "RSA-1",  "number": 29, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -107,7 +107,7 @@
           ]
         },
         {
-          "id": "KOR", "name": "Corea del Sur", "group": "A",
+          "id": "KOR", "name": "Corea del Sur", "group": "A", "page": "12",
           "branding": { "primaryColor": "#CD2E3A", "secondaryColor": "#003478", "flagEmoji": "🇰🇷", "badgeLabel": "KOR" },
           "stickers": [
             { "id": "KOR-1",  "number": 49, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "id": "CZE", "name": "República Checa", "group": "A",
+          "id": "CZE", "name": "República Checa", "group": "A", "page": "14",
           "branding": { "primaryColor": "#D7141A", "secondaryColor": "#11457E", "accentColor": "#FFFFFF", "flagEmoji": "🇨🇿", "badgeLabel": "CZE" },
           "stickers": [
             { "id": "CZE-1",  "number": 69, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -159,7 +159,7 @@
           ]
         },
         {
-          "id": "CAN", "name": "Canadá", "group": "B",
+          "id": "CAN", "name": "Canadá", "group": "B", "page": "16",
           "branding": { "primaryColor": "#FF0000", "secondaryColor": "#FFFFFF", "flagEmoji": "🇨🇦", "badgeLabel": "CAN" },
           "stickers": [
             { "id": "CAN-1",  "number": 89,  "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -185,7 +185,7 @@
           ]
         },
         {
-          "id": "BIH", "name": "Bosnia y Herzegovina", "group": "B",
+          "id": "BIH", "name": "Bosnia y Herzegovina", "group": "B", "page": "18",
           "branding": { "primaryColor": "#002395", "secondaryColor": "#FFCD00", "flagEmoji": "🇧🇦", "badgeLabel": "BIH" },
           "stickers": [
             { "id": "BIH-1",  "number": 109, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "id": "QAT", "name": "Qatar", "group": "B",
+          "id": "QAT", "name": "Qatar", "group": "B", "page": "20",
           "branding": { "primaryColor": "#8D1B3D", "secondaryColor": "#FFFFFF", "flagEmoji": "🇶🇦", "badgeLabel": "QAT" },
           "stickers": [
             { "id": "QAT-1",  "number": 129, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -237,7 +237,7 @@
           ]
         },
         {
-          "id": "SUI", "name": "Suiza", "group": "B",
+          "id": "SUI", "name": "Suiza", "group": "B", "page": "22",
           "branding": { "primaryColor": "#FF0000", "secondaryColor": "#FFFFFF", "flagEmoji": "🇨🇭", "badgeLabel": "SUI" },
           "stickers": [
             { "id": "SUI-1",  "number": 149, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -263,7 +263,7 @@
           ]
         },
         {
-          "id": "BRA", "name": "Brasil", "group": "C",
+          "id": "BRA", "name": "Brasil", "group": "C", "page": "24",
           "branding": { "primaryColor": "#009C3B", "secondaryColor": "#FFDF00", "accentColor": "#002776", "flagEmoji": "🇧🇷", "badgeLabel": "BRA" },
           "stickers": [
             { "id": "BRA-1",  "number": 169, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -289,7 +289,7 @@
           ]
         },
         {
-          "id": "MAR", "name": "Marruecos", "group": "C",
+          "id": "MAR", "name": "Marruecos", "group": "C", "page": "26",
           "branding": { "primaryColor": "#C1272D", "secondaryColor": "#006233", "flagEmoji": "🇲🇦", "badgeLabel": "MAR" },
           "stickers": [
             { "id": "MAR-1",  "number": 189, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -315,7 +315,7 @@
           ]
         },
         {
-          "id": "HAI", "name": "Haití", "group": "C",
+          "id": "HAI", "name": "Haití", "group": "C", "page": "28",
           "branding": { "primaryColor": "#00209F", "secondaryColor": "#D21034", "flagEmoji": "🇭🇹", "badgeLabel": "HAI" },
           "stickers": [
             { "id": "HAI-1",  "number": 209, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -341,7 +341,7 @@
           ]
         },
         {
-          "id": "SCO", "name": "Escocia", "group": "C",
+          "id": "SCO", "name": "Escocia", "group": "C", "page": "30",
           "branding": { "primaryColor": "#003DA5", "secondaryColor": "#FFFFFF", "accentColor": "#FFD700", "flagEmoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "badgeLabel": "SCO" },
           "stickers": [
             { "id": "SCO-1",  "number": 229, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -367,7 +367,7 @@
           ]
         },
         {
-          "id": "USA", "name": "Estados Unidos", "group": "D",
+          "id": "USA", "name": "Estados Unidos", "group": "D", "page": "32",
           "branding": { "primaryColor": "#002868", "secondaryColor": "#BF0A30", "accentColor": "#FFFFFF", "flagEmoji": "🇺🇸", "badgeLabel": "USA" },
           "stickers": [
             { "id": "USA-1",  "number": 249, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -393,7 +393,7 @@
           ]
         },
         {
-          "id": "PAR", "name": "Paraguay", "group": "D",
+          "id": "PAR", "name": "Paraguay", "group": "D", "page": "34",
           "branding": { "primaryColor": "#D52B1E", "secondaryColor": "#002868", "accentColor": "#FFFFFF", "flagEmoji": "🇵🇾", "badgeLabel": "PAR" },
           "stickers": [
             { "id": "PAR-1",  "number": 269, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -419,7 +419,7 @@
           ]
         },
         {
-          "id": "AUS", "name": "Australia", "group": "D",
+          "id": "AUS", "name": "Australia", "group": "D", "page": "36",
           "branding": { "primaryColor": "#00843D", "secondaryColor": "#FFD700", "flagEmoji": "🇦🇺", "badgeLabel": "AUS" },
           "stickers": [
             { "id": "AUS-1",  "number": 289, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -445,7 +445,7 @@
           ]
         },
         {
-          "id": "TUR", "name": "Turquía", "group": "D",
+          "id": "TUR", "name": "Turquía", "group": "D", "page": "38",
           "branding": { "primaryColor": "#E30A17", "secondaryColor": "#FFFFFF", "flagEmoji": "🇹🇷", "badgeLabel": "TUR" },
           "stickers": [
             { "id": "TUR-1",  "number": 309, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -471,7 +471,7 @@
           ]
         },
         {
-          "id": "GER", "name": "Alemania", "group": "E",
+          "id": "GER", "name": "Alemania", "group": "E", "page": "40",
           "branding": { "primaryColor": "#000000", "secondaryColor": "#DD0000", "accentColor": "#FFCE00", "flagEmoji": "🇩🇪", "badgeLabel": "GER" },
           "stickers": [
             { "id": "GER-1",  "number": 329, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -497,7 +497,7 @@
           ]
         },
         {
-          "id": "CUW", "name": "Curazao", "group": "E",
+          "id": "CUW", "name": "Curazao", "group": "E", "page": "42",
           "branding": { "primaryColor": "#003DA5", "secondaryColor": "#F9E400", "accentColor": "#FFFFFF", "flagEmoji": "🇨🇼", "badgeLabel": "CUW" },
           "stickers": [
             { "id": "CUW-1",  "number": 349, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -523,7 +523,7 @@
           ]
         },
         {
-          "id": "CIV", "name": "Costa de Marfil", "group": "E",
+          "id": "CIV", "name": "Costa de Marfil", "group": "E", "page": "44",
           "branding": { "primaryColor": "#F77F00", "secondaryColor": "#009A44", "accentColor": "#FFFFFF", "flagEmoji": "🇨🇮", "badgeLabel": "CIV" },
           "stickers": [
             { "id": "CIV-1",  "number": 369, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -549,7 +549,7 @@
           ]
         },
         {
-          "id": "ECU", "name": "Ecuador", "group": "E",
+          "id": "ECU", "name": "Ecuador", "group": "E", "page": "46",
           "branding": { "primaryColor": "#FFD100", "secondaryColor": "#0033A0", "accentColor": "#CE1126", "flagEmoji": "🇪🇨", "badgeLabel": "ECU" },
           "stickers": [
             { "id": "ECU-1",  "number": 389, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -575,7 +575,7 @@
           ]
         },
         {
-          "id": "NED", "name": "Países Bajos", "group": "F",
+          "id": "NED", "name": "Países Bajos", "group": "F", "page": "48",
           "branding": { "primaryColor": "#FF6600", "secondaryColor": "#FFFFFF", "flagEmoji": "🇳🇱", "badgeLabel": "NED" },
           "stickers": [
             { "id": "NED-1",  "number": 409, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -601,7 +601,7 @@
           ]
         },
         {
-          "id": "JPN", "name": "Japón", "group": "F",
+          "id": "JPN", "name": "Japón", "group": "F", "page": "50",
           "branding": { "primaryColor": "#BC0020", "secondaryColor": "#FFFFFF", "flagEmoji": "🇯🇵", "badgeLabel": "JPN" },
           "stickers": [
             { "id": "JPN-1",  "number": 429, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -627,7 +627,7 @@
           ]
         },
         {
-          "id": "SWE", "name": "Suecia", "group": "F",
+          "id": "SWE", "name": "Suecia", "group": "F", "page": "52",
           "branding": { "primaryColor": "#006AA7", "secondaryColor": "#FECC02", "flagEmoji": "🇸🇪", "badgeLabel": "SWE" },
           "stickers": [
             { "id": "SWE-1",  "number": 449, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -653,7 +653,7 @@
           ]
         },
         {
-          "id": "TUN", "name": "Túnez", "group": "F",
+          "id": "TUN", "name": "Túnez", "group": "F", "page": "54",
           "branding": { "primaryColor": "#E70013", "secondaryColor": "#FFFFFF", "flagEmoji": "🇹🇳", "badgeLabel": "TUN" },
           "stickers": [
             { "id": "TUN-1",  "number": 469, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -704,7 +704,7 @@
           ]
         },
         {
-          "id": "BEL", "name": "Bélgica", "group": "G",
+          "id": "BEL", "name": "Bélgica", "group": "G", "page": "58",
           "branding": { "primaryColor": "#EF3340", "secondaryColor": "#000000", "accentColor": "#F9E000", "flagEmoji": "🇧🇪", "badgeLabel": "BEL" },
           "stickers": [
             { "id": "BEL-1",  "number": 489, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -730,7 +730,7 @@
           ]
         },
         {
-          "id": "EGY", "name": "Egipto", "group": "G",
+          "id": "EGY", "name": "Egipto", "group": "G", "page": "60",
           "branding": { "primaryColor": "#CE1126", "secondaryColor": "#FFFFFF", "accentColor": "#000000", "flagEmoji": "🇪🇬", "badgeLabel": "EGY" },
           "stickers": [
             { "id": "EGY-1",  "number": 509, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -756,7 +756,7 @@
           ]
         },
         {
-          "id": "IRN", "name": "Irán", "group": "G",
+          "id": "IRN", "name": "Irán", "group": "G", "page": "62",
           "branding": { "primaryColor": "#239F40", "secondaryColor": "#DA0000", "accentColor": "#FFFFFF", "flagEmoji": "🇮🇷", "badgeLabel": "IRN" },
           "stickers": [
             { "id": "IRN-1",  "number": 529, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -782,7 +782,7 @@
           ]
         },
         {
-          "id": "NZL", "name": "Nueva Zelanda", "group": "G",
+          "id": "NZL", "name": "Nueva Zelanda", "group": "G", "page": "64",
           "branding": { "primaryColor": "#00247D", "secondaryColor": "#CC142B", "flagEmoji": "🇳🇿", "badgeLabel": "NZL" },
           "stickers": [
             { "id": "NZL-1",  "number": 549, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -808,7 +808,7 @@
           ]
         },
         {
-          "id": "ESP", "name": "España", "group": "H",
+          "id": "ESP", "name": "España", "group": "H", "page": "66",
           "branding": { "primaryColor": "#AA151B", "secondaryColor": "#F1BF00", "flagEmoji": "🇪🇸", "badgeLabel": "ESP" },
           "stickers": [
             { "id": "ESP-1",  "number": 569, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -834,7 +834,7 @@
           ]
         },
         {
-          "id": "CPV", "name": "Cabo Verde", "group": "H",
+          "id": "CPV", "name": "Cabo Verde", "group": "H", "page": "68",
           "branding": { "primaryColor": "#003893", "secondaryColor": "#CF2027", "accentColor": "#F7D116", "flagEmoji": "🇨🇻", "badgeLabel": "CPV" },
           "stickers": [
             { "id": "CPV-1",  "number": 589, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -860,7 +860,7 @@
           ]
         },
         {
-          "id": "KSA", "name": "Arabia Saudita", "group": "H",
+          "id": "KSA", "name": "Arabia Saudita", "group": "H", "page": "70",
           "branding": { "primaryColor": "#006C35", "secondaryColor": "#FFFFFF", "flagEmoji": "🇸🇦", "badgeLabel": "KSA" },
           "stickers": [
             { "id": "KSA-1",  "number": 609, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -886,7 +886,7 @@
           ]
         },
         {
-          "id": "URU", "name": "Uruguay", "group": "H",
+          "id": "URU", "name": "Uruguay", "group": "H", "page": "72",
           "branding": { "primaryColor": "#5BA4CF", "secondaryColor": "#FFFFFF", "flagEmoji": "🇺🇾", "badgeLabel": "URU" },
           "stickers": [
             { "id": "URU-1",  "number": 629, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -912,7 +912,7 @@
           ]
         },
         {
-          "id": "FRA", "name": "Francia", "group": "I",
+          "id": "FRA", "name": "Francia", "group": "I", "page": "74",
           "branding": { "primaryColor": "#002395", "secondaryColor": "#FFFFFF", "accentColor": "#ED2939", "flagEmoji": "🇫🇷", "badgeLabel": "FRA" },
           "stickers": [
             { "id": "FRA-1",  "number": 649, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -938,7 +938,7 @@
           ]
         },
         {
-          "id": "SEN", "name": "Senegal", "group": "I",
+          "id": "SEN", "name": "Senegal", "group": "I", "page": "76",
           "branding": { "primaryColor": "#00853F", "secondaryColor": "#FDEF42", "accentColor": "#E31B23", "flagEmoji": "🇸🇳", "badgeLabel": "SEN" },
           "stickers": [
             { "id": "SEN-1",  "number": 669, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -964,7 +964,7 @@
           ]
         },
         {
-          "id": "IRQ", "name": "Irak", "group": "I",
+          "id": "IRQ", "name": "Irak", "group": "I", "page": "78",
           "branding": { "primaryColor": "#CE1126", "secondaryColor": "#007A3D", "accentColor": "#000000", "flagEmoji": "🇮🇶", "badgeLabel": "IRQ" },
           "stickers": [
             { "id": "IRQ-1",  "number": 689, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -990,7 +990,7 @@
           ]
         },
         {
-          "id": "NOR", "name": "Noruega", "group": "I",
+          "id": "NOR", "name": "Noruega", "group": "I", "page": "80",
           "branding": { "primaryColor": "#EF2B2D", "secondaryColor": "#002868", "accentColor": "#FFFFFF", "flagEmoji": "🇳🇴", "badgeLabel": "NOR" },
           "stickers": [
             { "id": "NOR-1",  "number": 709, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1016,7 +1016,7 @@
           ]
         },
         {
-          "id": "ARG", "name": "Argentina", "group": "J",
+          "id": "ARG", "name": "Argentina", "group": "J", "page": "82",
           "branding": { "primaryColor": "#74ACDF", "secondaryColor": "#FFFFFF", "flagEmoji": "🇦🇷", "badgeLabel": "ARG" },
           "stickers": [
             { "id": "ARG-1",  "number": 729, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1042,7 +1042,7 @@
           ]
         },
         {
-          "id": "ALG", "name": "Argelia", "group": "J",
+          "id": "ALG", "name": "Argelia", "group": "J", "page": "84",
           "branding": { "primaryColor": "#006233", "secondaryColor": "#FFFFFF", "accentColor": "#D21034", "flagEmoji": "🇩🇿", "badgeLabel": "ALG" },
           "stickers": [
             { "id": "ALG-1",  "number": 749, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1068,7 +1068,7 @@
           ]
         },
         {
-          "id": "AUT", "name": "Austria", "group": "J",
+          "id": "AUT", "name": "Austria", "group": "J", "page": "86",
           "branding": { "primaryColor": "#ED2939", "secondaryColor": "#FFFFFF", "flagEmoji": "🇦🇹", "badgeLabel": "AUT" },
           "stickers": [
             { "id": "AUT-1",  "number": 769, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1094,7 +1094,7 @@
           ]
         },
         {
-          "id": "JOR", "name": "Jordania", "group": "J",
+          "id": "JOR", "name": "Jordania", "group": "J", "page": "88",
           "branding": { "primaryColor": "#007A3D", "secondaryColor": "#CE1126", "accentColor": "#FFFFFF", "flagEmoji": "🇯🇴", "badgeLabel": "JOR" },
           "stickers": [
             { "id": "JOR-1",  "number": 789, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1120,7 +1120,7 @@
           ]
         },
         {
-          "id": "POR", "name": "Portugal", "group": "K",
+          "id": "POR", "name": "Portugal", "group": "K", "page": "90",
           "branding": { "primaryColor": "#006600", "secondaryColor": "#FF0000", "flagEmoji": "🇵🇹", "badgeLabel": "POR" },
           "stickers": [
             { "id": "POR-1",  "number": 809, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1146,7 +1146,7 @@
           ]
         },
         {
-          "id": "COD", "name": "R.D. Congo", "group": "K",
+          "id": "COD", "name": "R.D. Congo", "group": "K", "page": "92",
           "branding": { "primaryColor": "#007FFF", "secondaryColor": "#F7D618", "accentColor": "#CE1020", "flagEmoji": "🇨🇩", "badgeLabel": "COD" },
           "stickers": [
             { "id": "COD-1",  "number": 829, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1172,7 +1172,7 @@
           ]
         },
         {
-          "id": "UZB", "name": "Uzbekistán", "group": "K",
+          "id": "UZB", "name": "Uzbekistán", "group": "K", "page": "94",
           "branding": { "primaryColor": "#1EB53A", "secondaryColor": "#0099B5", "accentColor": "#FFFFFF", "flagEmoji": "🇺🇿", "badgeLabel": "UZB" },
           "stickers": [
             { "id": "UZB-1",  "number": 849, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1198,7 +1198,7 @@
           ]
         },
         {
-          "id": "COL", "name": "Colombia", "group": "K",
+          "id": "COL", "name": "Colombia", "group": "K", "page": "96",
           "branding": { "primaryColor": "#FCD116", "secondaryColor": "#003087", "accentColor": "#CE1126", "flagEmoji": "🇨🇴", "badgeLabel": "COL" },
           "stickers": [
             { "id": "COL-1",  "number": 869, "type": "badge",  "suggestedValue": 3, "label": "La Tricolor" },
@@ -1224,7 +1224,7 @@
           ]
         },
         {
-          "id": "ENG", "name": "Inglaterra", "group": "L",
+          "id": "ENG", "name": "Inglaterra", "group": "L", "page": "98",
           "branding": { "primaryColor": "#FFFFFF", "secondaryColor": "#CF081F", "flagEmoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "badgeLabel": "ENG" },
           "stickers": [
             { "id": "ENG-1",  "number": 889, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1250,7 +1250,7 @@
           ]
         },
         {
-          "id": "CRO", "name": "Croacia", "group": "L",
+          "id": "CRO", "name": "Croacia", "group": "L", "page": "100",
           "branding": { "primaryColor": "#FF0000", "secondaryColor": "#FFFFFF", "accentColor": "#003DA5", "flagEmoji": "🇭🇷", "badgeLabel": "CRO" },
           "stickers": [
             { "id": "CRO-1",  "number": 909, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1276,7 +1276,7 @@
           ]
         },
         {
-          "id": "GHA", "name": "Ghana", "group": "L",
+          "id": "GHA", "name": "Ghana", "group": "L", "page": "102",
           "branding": { "primaryColor": "#006B3F", "secondaryColor": "#FCD116", "accentColor": "#EF3340", "flagEmoji": "🇬🇭", "badgeLabel": "GHA" },
           "stickers": [
             { "id": "GHA-1",  "number": 929, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
@@ -1302,7 +1302,7 @@
           ]
         },
         {
-          "id": "PAN", "name": "Panamá", "group": "L",
+          "id": "PAN", "name": "Panamá", "group": "L", "page": "104",
           "branding": { "primaryColor": "#DA121A", "secondaryColor": "#003580", "accentColor": "#FFFFFF", "flagEmoji": "🇵🇦", "badgeLabel": "PAN" },
           "stickers": [
             { "id": "PAN-1",  "number": 949, "type": "badge",  "suggestedValue": 3, "label": "Escudo" },
