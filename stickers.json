@@ -1,10 +1,10 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "status": "preview",
   "album": {
     "name": "FIFA World Cup 2026",
     "edition": "official",
-    "totalStickers": 980
+    "totalStickers": 982
   },
   "groups": [
     {
@@ -677,32 +677,7 @@
             { "id": "TUN-19", "number": 487, "type": "player", "label": "Sayfallah Ltaief" },
             { "id": "TUN-20", "number": 488, "type": "player", "label": "Naïm Sliti" }
           ]
-        },
-        {
-          "id": "CC",
-          "name": "Coca-Cola",
-          "suggestedValue": 5,
-          "style": {
-            "borderColor": "#F40009",
-            "backgroundColor": "#1a0000",
-            "badgeLabel": "Coca-Cola",
-            "badgeColor": "#F40009"
-          },
-          "stickers": [
-            { "id": "CC-01",  "number": 969, "type": "special", "label": "Lamine Yamal - Spain" },
-            { "id": "CC-02",  "number": 970, "type": "special", "label": "Joshua Kimmich - Germany" },
-            { "id": "CC-03",  "number": 971, "type": "special", "label": "Harry Kane - England" },
-            { "id": "CC-04",  "number": 972, "type": "special", "label": "Santiago Giménez - Mexico" },
-            { "id": "CC-05",  "number": 973, "type": "special", "label": "Antonee Robinson - USA" },
-            { "id": "CC-06",  "number": 974, "type": "special", "label": "Jefferson Lerma - Colombia" },
-            { "id": "CC-07",  "number": 975, "type": "special", "label": "Edson Álvarez - Mexico" },
-            { "id": "CC-08",  "number": 976, "type": "special", "label": "Virgil van Dijk - Netherlands" },
-            { "id": "CC-09",  "number": 977, "type": "special", "label": "Alphonso Davies - Canada" },
-            { "id": "CC-10", "number": 978, "type": "special", "label": "Weston McKennie - USA" },
-            { "id": "CC-11", "number": 979, "type": "special", "label": "Lautaro Martínez - Argentina" },
-            { "id": "CC-12", "number": 980, "type": "special", "label": "Gabriel Magalhães - Brazil" }
-          ]
-        },
+        },        
         {
           "id": "BEL", "name": "Bélgica", "group": "G", "page": "58",
           "branding": { "primaryColor": "#EF3340", "secondaryColor": "#000000", "accentColor": "#F9E000", "flagEmoji": "🇧🇪", "badgeLabel": "BEL" },
@@ -1331,7 +1306,8 @@
     },
     {
       "id": "fwc_fin",
-      "name": "Láminas FWC Finales",
+      "name": "FIFA World Cup History",
+      "page": "106-109",
       "suggestedValue": 8,
       "style": {
         "borderColor": "#C9973A",
@@ -1353,6 +1329,34 @@
         { "id": "FWC-18", "number": 990, "type": "special", "label": "Germany 2014 - FIFA Museum" },
         { "id": "FWC-19", "number": 991, "type": "special", "label": "Argentina 2022 - FIFA Museum" }
       ]
-    }
+    },
+    {
+      "id": "CC",
+      "name": "Coca-Cola",
+      "suggestedValue": 5,
+      "page": "112",
+      "style": {
+        "borderColor": "#F40009",
+        "backgroundColor": "#1a0000",
+        "badgeLabel": "Coca-Cola",
+        "badgeColor": "#F40009"
+      },
+      "stickers": [
+        { "id": "CC-01",  "number": 969, "type": "special", "label": "Lamine Yamal - Spain" },
+        { "id": "CC-02",  "number": 970, "type": "special", "label": "Joshua Kimmich - Germany" },
+        { "id": "CC-03",  "number": 971, "type": "special", "label": "Harry Kane - England" },
+        { "id": "CC-04",  "number": 972, "type": "special", "label": "Santiago Giménez - Mexico" },
+        { "id": "CC-05",  "number": 973, "type": "special", "label": "Joško Gvardiol - Croatia" },
+        { "id": "CC-06",  "number": 974, "type": "special", "label": "Federico Valverde - Uruguay" },
+        { "id": "CC-07",  "number": 975, "type": "special", "label": "Jefferson Lerma - Colombia" },
+        { "id": "CC-08",  "number": 976, "type": "special", "label": "Enner Valencia - Ecuador" },
+        { "id": "CC-09",  "number": 977, "type": "special", "label": "Gabriel Magalhães - Brazil" },
+        { "id": "CC-10", "number": 978, "type": "special", "label": "Virgil van Dijk - Netherlands" },
+        { "id": "CC-11", "number": 979, "type": "special", "label": "Alphonso Davies - Canada" },
+        { "id": "CC-12", "number": 980, "type": "special", "label": "Emiliano Martínez - Argentina" },
+        { "id": "CC-13", "number": 981, "type": "special", "label": "Raúl Jiménez - Mexico" },
+        { "id": "CC-14", "number": 982, "type": "special", "label": "Lautaro Martínez - Argentina" },
+      ]
+    },
   ]
 }
