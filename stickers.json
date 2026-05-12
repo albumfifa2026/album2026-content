@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "status": "preview",
   "album": {
     "name": "FIFA World Cup 2026",
@@ -1355,8 +1355,8 @@
         { "id": "CC-11", "number": 979, "type": "special", "label": "Alphonso Davies - Canada" },
         { "id": "CC-12", "number": 980, "type": "special", "label": "Emiliano Martínez - Argentina" },
         { "id": "CC-13", "number": 981, "type": "special", "label": "Raúl Jiménez - Mexico" },
-        { "id": "CC-14", "number": 982, "type": "special", "label": "Lautaro Martínez - Argentina" },
+        { "id": "CC-14", "number": 982, "type": "special", "label": "Lautaro Martínez - Argentina" }
       ]
-    },
+    }
   ]
 }
